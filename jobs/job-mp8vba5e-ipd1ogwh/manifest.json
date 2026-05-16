@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp8vba5e-ipd1ogwh",
+  "source_url": "https://github.com/comfyanonymous/ComfyUI/releases/latest/download/ComfyUI_windows_portable_nvidia_cu126.7z",
+  "created_at_utc": "2026-05-16T21:38:39Z",
+  "mode": "chunked",
+  "total_size_bytes": 1946622705,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 20,
+  "single_file_path": "jobs/job-mp8vba5e-ipd1ogwh/file.bin",
+  "chunks_path_prefix": "jobs/job-mp8vba5e-ipd1ogwh/chunks/chunk_",
+  "suggested_filename": "ComfyUI_windows_portable_nvidia_cu126.7z"
+}

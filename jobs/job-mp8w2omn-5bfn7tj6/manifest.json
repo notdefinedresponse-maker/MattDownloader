@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp8w2omn-5bfn7tj6",
+  "source_url": "https://raw.githubusercontent.com/emailno244-cell/HHdownload/main/downloads/8345d9d6-cf18-4a85-bff1-7c5c44d44ea7/8345d9d6-cf18-4a85-bff1-7c5c44d44ea7.zip.001",
+  "created_at_utc": "2026-05-16T22:00:55Z",
+  "mode": "single",
+  "total_size_bytes": 94371840,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp8w2omn-5bfn7tj6/file.bin",
+  "chunks_path_prefix": "jobs/job-mp8w2omn-5bfn7tj6/chunks/chunk_",
+  "suggested_filename": "8345d9d6-cf18-4a85-bff1-7c5c44d44ea7.zip.001"
+}
